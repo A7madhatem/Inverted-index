@@ -1,0 +1,1 @@
+second Fibonacci prime (and second Lucas prime), second Sophie Germain prime, third Harshad number base 10, second factorial prime, equal 2! + 1. 3 second only prime triangular number, Gauss proved every integer sum most 3 triangular numbers.
